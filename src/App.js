@@ -8,6 +8,7 @@ import MovieCard from './MovieCard';
 
 const API_URL = 'http://www.omdbapi.com?apikey=9adab058';
 
+
 const movie1 = {
     Poster: "N/A",
     Title: "Amazing Spiderman Syndrome",
